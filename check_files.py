@@ -20,7 +20,7 @@ def print_duplicated_files(results):
             print('{}'.format(result))
 
     else:
-        print('No duplicate files found.')
+        print('no files found')
 
 
 def check_duplication(path):
